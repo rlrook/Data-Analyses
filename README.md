@@ -20,6 +20,7 @@ The projects are available for download (unless you're currently working on thes
 ## Authors and Contact Information
 
 Rebecca Reichel
+
 LinkedIn: <https://www.linkedin.com/in/rebecca-reichel-b8ba90170/>
 
 Twitter: @RLReichel
